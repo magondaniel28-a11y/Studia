@@ -1,0 +1,56 @@
+C:\Documents and Settings\PB\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KolkoKrzyzyk\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\PB\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.Form1.resources
+C:\Documents and Settings\PB\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.Properties.Resources.resources
+C:\Documents and Settings\PB\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.csproj.GenerateResource.Cache
+C:\Documents and Settings\PB\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KolkoKrzyzyk\bin\Release\KolkoKrzyzyk.exe
+C:\Documents and Settings\PB\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KolkoKrzyzyk\bin\Release\KolkoKrzyzyk.pdb
+C:\Documents and Settings\PB\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.exe
+C:\Documents and Settings\PB\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.pdb
+C:\Documents and Settings\PB\Moje dokumenty\Visual Studio 2008\Projects\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.exe
+C:\Documents and Settings\PB\Moje dokumenty\Visual Studio 2008\Projects\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.pdb
+C:\Users\Paweł\Desktop\programowanie\projekty\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.exe
+C:\Users\Paweł\Desktop\programowanie\projekty\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.pdb
+C:\Users\Paweł\Desktop\programowanie\projekty\KolkoKrzyzyk\KolkoKrzyzyk\bin\Release\KolkoKrzyzyk.exe
+C:\Users\Paweł\Desktop\programowanie\projekty\KolkoKrzyzyk\KolkoKrzyzyk\bin\Release\KolkoKrzyzyk.pdb
+C:\Users\Paweł\Desktop\programowanie\projekty\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Desktop\programowanie\projekty\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.Form1.resources
+C:\Users\Paweł\Desktop\programowanie\projekty\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.Properties.Resources.resources
+C:\Users\Paweł\Desktop\programowanie\projekty\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.csproj.GenerateResource.Cache
+E:\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.exe
+E:\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.pdb
+D:\Politechnika s2\I semestr\PB_Buchwald\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\bin\Release\KolkoKrzyzyk.exe
+D:\Politechnika s2\I semestr\PB_Buchwald\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\bin\Release\KolkoKrzyzyk.pdb
+D:\Politechnika s2\I semestr\PB_Buchwald\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.csprojAssemblyReference.cache
+D:\Politechnika s2\I semestr\PB_Buchwald\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.Form1.resources
+D:\Politechnika s2\I semestr\PB_Buchwald\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.Properties.Resources.resources
+D:\Politechnika s2\I semestr\PB_Buchwald\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.csproj.GenerateResource.cache
+D:\Politechnika s2\I semestr\PB_Buchwald\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.csproj.CoreCompileInputs.cache
+D:\Politechnika s2\I semestr\PB_Buchwald\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.exe
+D:\Politechnika s2\I semestr\PB_Buchwald\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.pdb
+C:\Users\eegst\Desktop\PU\Sprawozdania\Krzysztof Strączek5.0\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\bin\Release\KolkoKrzyzyk.exe
+C:\Users\eegst\Desktop\PU\Sprawozdania\Krzysztof Strączek5.0\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\bin\Release\KolkoKrzyzyk.pdb
+C:\Users\eegst\Desktop\PU\Sprawozdania\Krzysztof Strączek5.0\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.csprojAssemblyReference.cache
+C:\Users\eegst\Desktop\PU\Sprawozdania\Krzysztof Strączek5.0\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.Form1.resources
+C:\Users\eegst\Desktop\PU\Sprawozdania\Krzysztof Strączek5.0\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.Properties.Resources.resources
+C:\Users\eegst\Desktop\PU\Sprawozdania\Krzysztof Strączek5.0\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.csproj.GenerateResource.cache
+C:\Users\eegst\Desktop\PU\Sprawozdania\Krzysztof Strączek5.0\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\eegst\Desktop\PU\Sprawozdania\Krzysztof Strączek5.0\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.exe
+C:\Users\eegst\Desktop\PU\Sprawozdania\Krzysztof Strączek5.0\Lab 3\KolkoKrzyzyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.pdb
+D:\Dokumenty\KolkoKrzyzyk\KolkoKrzyzyk\bin\Release\KolkoKrzyzyk.exe
+D:\Dokumenty\KolkoKrzyzyk\KolkoKrzyzyk\bin\Release\KolkoKrzyzyk.pdb
+D:\Dokumenty\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.csprojAssemblyReference.cache
+D:\Dokumenty\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.Form1.resources
+D:\Dokumenty\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.Properties.Resources.resources
+D:\Dokumenty\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.csproj.GenerateResource.cache
+D:\Dokumenty\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.csproj.CoreCompileInputs.cache
+D:\Dokumenty\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.exe
+D:\Dokumenty\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.pdb
+C:\Users\gawel\Desktop\Visual Studio\Studia\KolkoKrzyzyk (2)\KolkoKrzyzyk\KolkoKrzyzyk\bin\Release\KolkoKrzyzyk.exe
+C:\Users\gawel\Desktop\Visual Studio\Studia\KolkoKrzyzyk (2)\KolkoKrzyzyk\KolkoKrzyzyk\bin\Release\KolkoKrzyzyk.pdb
+C:\Users\gawel\Desktop\Visual Studio\Studia\KolkoKrzyzyk (2)\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.csproj.AssemblyReference.cache
+C:\Users\gawel\Desktop\Visual Studio\Studia\KolkoKrzyzyk (2)\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.Form1.resources
+C:\Users\gawel\Desktop\Visual Studio\Studia\KolkoKrzyzyk (2)\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.Properties.Resources.resources
+C:\Users\gawel\Desktop\Visual Studio\Studia\KolkoKrzyzyk (2)\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.csproj.GenerateResource.cache
+C:\Users\gawel\Desktop\Visual Studio\Studia\KolkoKrzyzyk (2)\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\gawel\Desktop\Visual Studio\Studia\KolkoKrzyzyk (2)\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.exe
+C:\Users\gawel\Desktop\Visual Studio\Studia\KolkoKrzyzyk (2)\KolkoKrzyzyk\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.pdb

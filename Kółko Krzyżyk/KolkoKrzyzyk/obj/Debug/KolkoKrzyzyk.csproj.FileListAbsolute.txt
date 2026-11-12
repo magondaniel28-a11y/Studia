@@ -1,0 +1,8 @@
+C:\Documents and Settings\PB\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KolkoKrzyzyk\bin\Debug\KolkoKrzyzyk.exe
+C:\Documents and Settings\PB\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KolkoKrzyzyk\bin\Debug\KolkoKrzyzyk.pdb
+C:\Documents and Settings\PB\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KolkoKrzyzyk\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\PB\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.Form1.resources
+C:\Documents and Settings\PB\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.Properties.Resources.resources
+C:\Documents and Settings\PB\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.csproj.GenerateResource.Cache
+C:\Documents and Settings\PB\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.exe
+C:\Documents and Settings\PB\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.pdb
